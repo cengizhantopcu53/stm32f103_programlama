@@ -1,6 +1,6 @@
 # stm32f103_programlama
  
-https://www.youtube.com/playlist?list=PLoVX4C46JKvppgCGiFy2v7BFd3ow8B2uI
+https://www.youtube.com/playlist?list=PLoVX4C46JKvoAhhugTfszMWYx8MQUzSCg
 
 https://linktr.ee/cengizhantopcu53
 
