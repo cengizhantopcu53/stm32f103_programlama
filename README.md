@@ -6,26 +6,26 @@ https://linktr.ee/cengizhantopcu53
 
 STM32F103 Programlama
 
--> 01 Dahili Led Yakma
+01 Dahili Led Yakma
 
--> 02 Harici Led Yakma
+02 Harici Led Yakma
 
--> 03 Buton ile Led Yakma
+03 Buton ile Led Yakma
 
--> 04 Timer Interrupt
+04 Timer Interrupt
 
--> 05 External Interrupt
+05 External Interrupt
 
--> 06 Tek Kanal ADC
+06 Tek Kanal ADC
 
--> 07 ADC DMA 
+07 ADC DMA 
 
--> 08 Çok Kanal ADC
+08 Çok Kanal ADC
 
--> 09 ADC Interrupt
+09 ADC Interrupt
 
--> 10 PWM
+10 PWM
 
--> 11 USART
+11 USART
 
--> 12 I2C EEPROM
+12 I2C EEPROM
