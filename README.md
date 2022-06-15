@@ -25,5 +25,3 @@ STM32F103 Programlama
 09 ADC Interrupt
 
 10 PWM
-
-11 USART
